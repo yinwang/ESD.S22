@@ -1,5 +1,5 @@
 {
-	sales: [{
+	"sales": [{
 		"Store": 1001,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
