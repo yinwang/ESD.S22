@@ -1,212 +1,272 @@
 {
-	sales:[{
+	sales: [{
 		"Store": 1001,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 50,
-		"TotalSales": "$890.01"
+		"TotalSales": "$890.01",
+		"Zone": 115,
+		"DC": 3
 	},
 	{
 		"Store": 1001,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 2,
-		"TotalSales": "$11.84"
+		"TotalSales": "$11.84",
+		"Zone": 115,
+		"DC": 3
 	},
 	{
 		"Store": 1004,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 30,
-		"TotalSales": "$591.14"
+		"TotalSales": "$591.14",
+		"Zone": 112,
+		"DC": 3
 	},
 	{
 		"Store": 1004,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 10,
-		"TotalSales": "$68.85"
+		"TotalSales": "$68.85",
+		"Zone": 112,
+		"DC": 3
 	},
 	{
 		"Store": 1008,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 23,
-		"TotalSales": "$409.39"
+		"TotalSales": "$409.39",
+		"Zone": 124,
+		"DC": 3
 	},
 	{
 		"Store": 1008,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 4,
-		"TotalSales": "$20.18"
+		"TotalSales": "$20.18",
+		"Zone": 124,
+		"DC": 3
 	},
 	{
 		"Store": 1009,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 34,
-		"TotalSales": "$671.18"
+		"TotalSales": "$671.18",
+		"Zone": 112,
+		"DC": 3
 	},
 	{
 		"Store": 1009,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 7,
-		"TotalSales": "$55.18"
+		"TotalSales": "$55.18",
+		"Zone": 112,
+		"DC": 3
 	},
 	{
 		"Store": 1010,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 53,
-		"TotalSales": "$1,032.98"
+		"TotalSales": "$1,032.98",
+		"Zone": 115,
+		"DC": 3
 	},
 	{
 		"Store": 1010,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 8,
-		"TotalSales": "$58.38"
+		"TotalSales": "$58.38",
+		"Zone": 115,
+		"DC": 3
 	},
 	{
 		"Store": 1013,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 39,
-		"TotalSales": "$834.25"
+		"TotalSales": "$834.25",
+		"Zone": 112,
+		"DC": 3
 	},
 	{
 		"Store": 1013,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 10,
-		"TotalSales": "$84.59"
+		"TotalSales": "$84.59",
+		"Zone": 112,
+		"DC": 3
 	},
 	{
 		"Store": 1019,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 24,
-		"TotalSales": "$471.42"
+		"TotalSales": "$471.42",
+		"Zone": 115,
+		"DC": 3
 	},
 	{
 		"Store": 1019,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 12,
-		"TotalSales": "$88.36"
+		"TotalSales": "$88.36",
+		"Zone": 115,
+		"DC": 3
 	},
 	{
 		"Store": 1021,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 35,
-		"TotalSales": "$654.57"
+		"TotalSales": "$654.57",
+		"Zone": 115,
+		"DC": 3
 	},
 	{
 		"Store": 1021,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 8,
-		"TotalSales": "$59.24"
+		"TotalSales": "$59.24",
+		"Zone": 115,
+		"DC": 3
 	},
 	{
 		"Store": 1028,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 11,
-		"TotalSales": "$191.05"
+		"TotalSales": "$191.05",
+		"Zone": 48,
+		"DC": 10
 	},
 	{
 		"Store": 1028,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 1,
-		"TotalSales": "$5.77"
+		"TotalSales": "$5.77",
+		"Zone": 48,
+		"DC": 10
 	},
 	{
 		"Store": 1032,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 14,
-		"TotalSales": "$280.65"
+		"TotalSales": "$280.65",
+		"Zone": 105,
+		"DC": 3
 	},
 	{
 		"Store": 1032,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 6,
-		"TotalSales": "$51.55"
+		"TotalSales": "$51.55",
+		"Zone": 105,
+		"DC": 3
 	},
 	{
 		"Store": 1034,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 30,
-		"TotalSales": "$715.83"
+		"TotalSales": "$715.83",
+		"Zone": 105,
+		"DC": 3
 	},
 	{
 		"Store": 1034,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 9,
-		"TotalSales": "$61.53"
+		"TotalSales": "$61.53",
+		"Zone": 105,
+		"DC": 3
 	},
 	{
 		"Store": 1039,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 48,
-		"TotalSales": "$876.14"
+		"TotalSales": "$876.14",
+		"Zone": 126,
+		"DC": 3
 	},
 	{
 		"Store": 1039,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 11,
-		"TotalSales": "$75.50"
+		"TotalSales": "$75.50",
+		"Zone": 126,
+		"DC": 3
 	},
 	{
 		"Store": 1040,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 26,
-		"TotalSales": "$554.87"
+		"TotalSales": "$554.87",
+		"Zone": 105,
+		"DC": 3
 	},
 	{
 		"Store": 1040,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 6,
-		"TotalSales": "$56.74"
+		"TotalSales": "$56.74",
+		"Zone": 105,
+		"DC": 3
 	},
 	{
 		"Store": 1042,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 36,
-		"TotalSales": "$641.81"
+		"TotalSales": "$641.81",
+		"Zone": 126,
+		"DC": 3
 	},
 	{
 		"Store": 1042,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 7,
-		"TotalSales": "$47.38"
+		"TotalSales": "$47.38",
+		"Zone": 126,
+		"DC": 3
 	},
 	{
 		"Store": 1044,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Beer",
 		"TotalUnitsSold": 31,
-		"TotalSales": "$477.89"
+		"TotalSales": "$477.89",
+		"Zone": 126,
+		"DC": 3
 	},
 	{
 		"Store": 1044,
 		"SalesDate": "8/31/2003",
 		"ProductCategory": "Snacks",
 		"TotalUnitsSold": 6,
-		"TotalSales": "$43.42"
+		"TotalSales": "$43.42",
+		"Zone": 126,
+		"DC": 3
 	}]
 }
