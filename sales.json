@@ -1,0 +1,212 @@
+{
+	sales:[{
+		"Store": 1001,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 50,
+		"TotalSales": "$890.01"
+	},
+	{
+		"Store": 1001,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 2,
+		"TotalSales": "$11.84"
+	},
+	{
+		"Store": 1004,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 30,
+		"TotalSales": "$591.14"
+	},
+	{
+		"Store": 1004,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 10,
+		"TotalSales": "$68.85"
+	},
+	{
+		"Store": 1008,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 23,
+		"TotalSales": "$409.39"
+	},
+	{
+		"Store": 1008,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 4,
+		"TotalSales": "$20.18"
+	},
+	{
+		"Store": 1009,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 34,
+		"TotalSales": "$671.18"
+	},
+	{
+		"Store": 1009,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 7,
+		"TotalSales": "$55.18"
+	},
+	{
+		"Store": 1010,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 53,
+		"TotalSales": "$1,032.98"
+	},
+	{
+		"Store": 1010,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 8,
+		"TotalSales": "$58.38"
+	},
+	{
+		"Store": 1013,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 39,
+		"TotalSales": "$834.25"
+	},
+	{
+		"Store": 1013,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 10,
+		"TotalSales": "$84.59"
+	},
+	{
+		"Store": 1019,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 24,
+		"TotalSales": "$471.42"
+	},
+	{
+		"Store": 1019,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 12,
+		"TotalSales": "$88.36"
+	},
+	{
+		"Store": 1021,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 35,
+		"TotalSales": "$654.57"
+	},
+	{
+		"Store": 1021,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 8,
+		"TotalSales": "$59.24"
+	},
+	{
+		"Store": 1028,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 11,
+		"TotalSales": "$191.05"
+	},
+	{
+		"Store": 1028,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 1,
+		"TotalSales": "$5.77"
+	},
+	{
+		"Store": 1032,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 14,
+		"TotalSales": "$280.65"
+	},
+	{
+		"Store": 1032,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 6,
+		"TotalSales": "$51.55"
+	},
+	{
+		"Store": 1034,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 30,
+		"TotalSales": "$715.83"
+	},
+	{
+		"Store": 1034,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 9,
+		"TotalSales": "$61.53"
+	},
+	{
+		"Store": 1039,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 48,
+		"TotalSales": "$876.14"
+	},
+	{
+		"Store": 1039,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 11,
+		"TotalSales": "$75.50"
+	},
+	{
+		"Store": 1040,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 26,
+		"TotalSales": "$554.87"
+	},
+	{
+		"Store": 1040,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 6,
+		"TotalSales": "$56.74"
+	},
+	{
+		"Store": 1042,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 36,
+		"TotalSales": "$641.81"
+	},
+	{
+		"Store": 1042,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 7,
+		"TotalSales": "$47.38"
+	},
+	{
+		"Store": 1044,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Beer",
+		"TotalUnitsSold": 31,
+		"TotalSales": "$477.89"
+	},
+	{
+		"Store": 1044,
+		"SalesDate": "8/31/2003",
+		"ProductCategory": "Snacks",
+		"TotalUnitsSold": 6,
+		"TotalSales": "$43.42"
+	}]
+}
