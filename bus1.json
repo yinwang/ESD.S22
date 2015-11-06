@@ -1,0 +1,86 @@
+{
+	"vehicle": [{
+		"id": "6003",
+		"lon": "-71.1091159",
+		"routeTag": "1",
+		"predictable": "true",
+		"dirTag": "1_0_var0",
+		"heading": "295",
+		"lat": "42.3685599",
+		"secsSinceReport": "15"
+	},
+	{
+		"id": "2221",
+		"lon": "-71.0852929",
+		"routeTag": "1",
+		"predictable": "true",
+		"dirTag": "1_1_var0",
+		"heading": "133",
+		"lat": "42.3429653",
+		"secsSinceReport": "15"
+	},
+	{
+		"id": "2145",
+		"lon": "-71.0746884",
+		"routeTag": "1",
+		"predictable": "true",
+		"dirTag": "1_1_var0",
+		"heading": "140",
+		"lat": "42.334564",
+		"secsSinceReport": "45"
+	},
+	{
+		"id": "2201",
+		"lon": "-71.0977272",
+		"routeTag": "1",
+		"predictable": "true",
+		"dirTag": "1_1_var0",
+		"heading": "132",
+		"lat": "42.3617624",
+		"secsSinceReport": "15"
+	},
+	{
+		"id": "2202",
+		"lon": "-71.0840812",
+		"routeTag": "1",
+		"predictable": "true",
+		"dirTag": "1_0_var0",
+		"heading": "230",
+		"lat": "42.3421391",
+		"secsSinceReport": "15"
+	},
+	{
+		"id": "2142",
+		"lon": "-71.0806851",
+		"routeTag": "1",
+		"predictable": "true",
+		"dirTag": "1_0_var0",
+		"heading": "128",
+		"lat": "42.3326264",
+		"secsSinceReport": "45"
+	},
+	{
+		"id": "2234",
+		"lon": "-71.0887094",
+		"routeTag": "1",
+		"predictable": "true",
+		"dirTag": "1_0_var0",
+		"heading": "340",
+		"lat": "42.3493464",
+		"secsSinceReport": "30"
+	},
+	{
+		"id": "6004",
+		"lon": "-71.1002711",
+		"routeTag": "1",
+		"predictable": "true",
+		"dirTag": "1_1_var0",
+		"heading": "130",
+		"lat": "42.3632801",
+		"secsSinceReport": "45"
+	}],
+	"lastTime": {
+		"time": "1446823492647"
+	},
+	"copyright": "All data copyright MBTA 2015."
+}
